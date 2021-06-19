@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <a href="https://www.linkedin.com/in/lucas-castellani-b5b6551a9/" target="_blank">
   <img src="https://img.shields.io/badge/-Lucas%20Castellani-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/castellani8/" width="150">
@@ -15,6 +14,11 @@
 | Node  |  ![](https://progress-bar.dev/6/?scale=10&suffix=/10)  |
 | Ubuntu  |  ![](https://progress-bar.dev/7/?scale=10&suffix=/10)  |
 | MySQL  |  ![](https://progress-bar.dev/08/?scale=10&suffix=/10)  |
+
+- 🔭 I’m currently working ... on a real state system 
+- 🌱 I’m currently learning ... Laravel
+- 💬 Ask me about ... PHP!
+- 📫 How to reach me: ... send me a email!
 
 <!--
 **castellani8/castellani8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
