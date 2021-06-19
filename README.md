@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/castellani8" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Castellani-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/castellani8/" width="150"></a>   <a href="mailto:lucas10castellani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-joaovdiasb@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovdiasb@gmail.com" width="198"></a>
+<a href="https://www.linkedin.com/in/lucas-castellani-b5b6551a9/" target="_blank">
+  <img src="https://img.shields.io/badge/-Lucas%20Castellani-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/castellani8/" width="150">
+</a>  
+<a href="mailto:lucas10castellani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-joaovdiasb@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas10castellani@gmail.com" width="198"></a>
 
 ## :computer: Hard skills
 | Skill  |  Exp  |
