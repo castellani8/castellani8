@@ -9,8 +9,8 @@
 | :---:  | :---:  |
 | Laravel  |  ![](https://progress-bar.dev/10/?scale=10&suffix=/10)  |
 | PHP  |  ![](https://progress-bar.dev/9/?scale=10&suffix=/10)  |
-| Vue.js  |  ![](https://progress-bar.dev/10/?scale=10&suffix=/10)  |
-| ES6+  |  ![](https://progress-bar.dev/8/?scale=10&suffix=/10)  |
+| JavaScript  |  ![](https://progress-bar.dev/7/?scale=10&suffix=/10)  |
+|  HTML |  ![](https://progress-bar.dev/10/?scale=10&suffix=/10)  |
 | Node  |  ![](https://progress-bar.dev/6/?scale=10&suffix=/10)  |
 | Ubuntu  |  ![](https://progress-bar.dev/7/?scale=10&suffix=/10)  |
 | MySQL  |  ![](https://progress-bar.dev/08/?scale=10&suffix=/10)  |
