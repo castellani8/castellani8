@@ -1,8 +1,8 @@
 
  <div>
   <a href="https://github.com/castellani8">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=castellani8&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castellani8&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=castellani8&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castellani8&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <a href="https://www.linkedin.com/in/lucas-castellani-b5b6551a9/" target="_blank">
   <img src="https://img.shields.io/badge/-Lucas%20Castellani-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/castellani8/" width="150">
