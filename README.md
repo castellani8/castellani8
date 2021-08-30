@@ -18,3 +18,6 @@
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
   <div class="tenor-gif-embed" data-postid="4011236" data-share-method="host" data-aspect-ratio="1.86667" data-width="100%"><a href="https://tenor.com/view/the-matrix-reloaded-matrix-reloaded-neo-keanu-reeves-gif-4011236">Neo Re-materializing - The Matrix Reloaded GIF</a>from <a href="https://tenor.com/search/the+matrix+reloaded-gifs">The Matrix Reloaded GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
