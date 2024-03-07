@@ -1,8 +1,6 @@
 <h1>Desenvolvedor focado em PHP!</h1>
  <div>
   <a href="https://github.com/castellani8">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=castellani8&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_color=42C920&text_color=42C920&title_color=42C920"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castellani8&layout=compact&langs_count=7&theme=gotham&border_color=42C920&text_color=42C920&title_color=42C920"/>
 </div>
  
 <div style="display: inline_block"><br>
